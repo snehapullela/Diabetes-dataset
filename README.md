@@ -1,4 +1,5 @@
 # Supervised and Semi-supervised Learning on clinical diabetes dataset
+The jupytr notebook present in the repository gives gives an insight on the clinical diabetes using several supervised and semi-supervised learning algorithms. The notebook also shows an implementation of self-training algorithm from scratch.
 Steps to run the jupytr notebook: 
 1. Install Anaconda and open jupytr notebook
 2. Download all the necessary packages using pip
